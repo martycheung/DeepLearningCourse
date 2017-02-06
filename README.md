@@ -1,5 +1,4 @@
-# Udacity Deep Learning Foundations
-## Martin Cheung
+## Udacity Deep Learning Foundations - Martin Cheung
 
 The submission for Project 1 is at:
 
